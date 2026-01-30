@@ -10,4 +10,4 @@ elif rating >= 3:
 elif rating >= 2:
     print("Fair")
 else:
-    print("Poor")a
+    print("Poor")
